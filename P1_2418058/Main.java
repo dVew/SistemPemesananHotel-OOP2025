@@ -1,8 +1,7 @@
 // Class Driver: Main
 /**
- *
  * @author David058
- */
+ **/
 public class Main {
     public static void main(String[] args) {
         // Membuat objek ReservasiHotel
