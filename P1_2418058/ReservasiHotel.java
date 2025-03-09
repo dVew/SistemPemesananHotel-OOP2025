@@ -5,10 +5,10 @@
  */
 public class ReservasiHotel {
     // Atribut
-    private String namaTamu;
-    private String tipeKamar;
-    private int lamaMenginap;
-    private double tarifKamar;
+    String namaTamu;
+    String tipeKamar;
+    int lamaMenginap;
+    double tarifKamar;
 
     // Konstruktor
     public ReservasiHotel(String namaTamu, String tipeKamar, int lamaMenginap, double tarifKamar) {
