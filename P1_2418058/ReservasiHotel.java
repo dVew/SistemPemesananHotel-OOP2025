@@ -9,7 +9,7 @@ public class ReservasiHotel {
     int lamaMenginap;
     double tarifKamar;
 
-    // Metode pengisi data
+    // Metode Pengisi data
     public ReservasiHotel(String namaTamu, String tipeKamar, int lamaMenginap, double tarifKamar) {
         this.namaTamu = namaTamu;
         this.tipeKamar = tipeKamar;
