@@ -1,8 +1,7 @@
 // Class Object : ReservasiHotel
 /**
- *
  * @author David058
- */
+ **/
 public class ReservasiHotel {
     // Atribut
     String namaTamu;
