@@ -1,1 +1,1 @@
-NIM ------------ 2418058
+Praktikum Object Oriented Programming -------- 2025
